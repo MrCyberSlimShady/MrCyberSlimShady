@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrCyberSlimShady
 - 👀 I’m interested in [hoping to find out soon]
-- 🌱 I’m currently learning SQL, DL
+- 🌱 I’m currently learning DSA using C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is on linkedin[https://www.linkedin.com/in/nayakabhay/]
 
